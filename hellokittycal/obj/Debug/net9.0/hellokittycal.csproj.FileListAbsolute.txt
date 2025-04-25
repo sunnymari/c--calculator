@@ -1,0 +1,14 @@
+/Users/marissacurry/hellokittycal/hellokittycal/bin/Debug/net9.0/hellokittycal
+/Users/marissacurry/hellokittycal/hellokittycal/bin/Debug/net9.0/hellokittycal.deps.json
+/Users/marissacurry/hellokittycal/hellokittycal/bin/Debug/net9.0/hellokittycal.runtimeconfig.json
+/Users/marissacurry/hellokittycal/hellokittycal/bin/Debug/net9.0/hellokittycal.dll
+/Users/marissacurry/hellokittycal/hellokittycal/bin/Debug/net9.0/hellokittycal.pdb
+/Users/marissacurry/hellokittycal/hellokittycal/obj/Debug/net9.0/hellokittycal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marissacurry/hellokittycal/hellokittycal/obj/Debug/net9.0/hellokittycal.AssemblyInfoInputs.cache
+/Users/marissacurry/hellokittycal/hellokittycal/obj/Debug/net9.0/hellokittycal.AssemblyInfo.cs
+/Users/marissacurry/hellokittycal/hellokittycal/obj/Debug/net9.0/hellokittycal.csproj.CoreCompileInputs.cache
+/Users/marissacurry/hellokittycal/hellokittycal/obj/Debug/net9.0/hellokittycal.dll
+/Users/marissacurry/hellokittycal/hellokittycal/obj/Debug/net9.0/refint/hellokittycal.dll
+/Users/marissacurry/hellokittycal/hellokittycal/obj/Debug/net9.0/hellokittycal.pdb
+/Users/marissacurry/hellokittycal/hellokittycal/obj/Debug/net9.0/hellokittycal.genruntimeconfig.cache
+/Users/marissacurry/hellokittycal/hellokittycal/obj/Debug/net9.0/ref/hellokittycal.dll
